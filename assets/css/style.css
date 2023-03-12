@@ -401,10 +401,6 @@ nav ul {
     display: flex;
 }
 
-.carousel-item {
-    float: unset;
-}
-
 .cover .col-lg-6.col-md-5.col-sm-12 {
     display: flex;
     justify-content: flex-end;
